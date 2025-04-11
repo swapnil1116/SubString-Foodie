@@ -39,7 +39,7 @@ management:
 info:
   app:
     name: "Food Service (DEV)"
-    description: "Development profile"
+    description: "Development profile , GitVersion"
 #info:
 #  app:
 #    name: "My Spring Boot App"
