@@ -1,0 +1,8 @@
+server:
+  port: 8082
+
+info:
+  app:
+    name: Food Service
+    description: This is our Test profile
+    version: 1.0
