@@ -14,7 +14,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/restaurantdb
     username: root
-    password: Swappy@1234
+    password: "{cipher}2e105e44ba6c2d30867ebfb177ac846d597e29f17ebdcb1c3390cb4ba3b3fb8e"
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:
