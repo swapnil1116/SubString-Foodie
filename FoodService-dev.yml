@@ -38,7 +38,7 @@ management:
 
 info:
   app:
-    name: "Food Service (DEV)"
+    name: "Food Service (Development)"
     description: "{cipher}a4aba5998da3092df5c0c4fddbc92e0e09685e37bbdbbb53cfdab8bc8207dbd8801f558e2b9970e23713cc92c98bdfcac8b1ebbb159b4c62eecad0964b4a417a"
 #info:
 #  app:
